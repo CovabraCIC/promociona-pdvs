@@ -1,0 +1,11 @@
+SELECT
+    idpromocaopersonalizada,
+    valorminimo,
+    idproduto,
+    codigobarrasproduto,
+    idsubcodigoproduto,
+    unidadeproduto,
+    preco4,
+    limiteprodutos
+FROM
+    promocaopersonalizadaproduto;
